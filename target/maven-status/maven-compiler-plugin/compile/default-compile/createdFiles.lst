@@ -1,0 +1,10 @@
+hu/greatit/demo/guides/ws_country/Currency.class
+hu/greatit/demo/guides/ws_country/GetCountryResponse.class
+hu/greatit/demo/guides/ws_country/Country.class
+hu/greatit/demo/guides/ws_country/GetCountryRequest.class
+hu/greatit/demo/Application.class
+hu/greatit/demo/data/CountryEndpoint.class
+hu/greatit/demo/guides/ws_country/package-info.class
+hu/greatit/demo/data/CountryRepository.class
+hu/greatit/demo/services/WebServiceConfig.class
+hu/greatit/demo/guides/ws_country/ObjectFactory.class
